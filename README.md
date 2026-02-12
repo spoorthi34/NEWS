@@ -73,12 +73,10 @@ Through this project, you can learn:
 * Add images and animations
 * Convert into a dynamic website using JavaScript
 
----
 
 ## 👩‍💻 Author
 
 Developed as a Front-End Practice Project.
 
----
 
 ⭐ If you like this project, consider giving it a star!
