@@ -33,7 +33,6 @@ news-1/
 └── README.md
 ```
 
----
 
 ## 🚀 How to Run
 
@@ -45,7 +44,6 @@ news-1/
 2. Open the project folder.
 3. Double-click `news-1.html` to open in your browser.
 
----
 
 ## ✨ Features
 
