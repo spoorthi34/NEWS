@@ -14,7 +14,6 @@ The **News Web Page** project is designed to showcase:
 * Organized content sections
 * Beginner-friendly front-end development practices
 
-
 This project is ideal for students learning **HTML & CSS basics**.
 
 ---
