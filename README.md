@@ -3,7 +3,6 @@
 A clean and responsive **News Website** built using HTML and CSS.
 This project demonstrates a structured layout for displaying news articles in a simple, readable, and user-friendly format.
 
----
 
 ## 📌 Overview
 
