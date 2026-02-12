@@ -15,7 +15,6 @@ The **News Web Page** project is designed to showcase:
 
 This project is ideal for students learning **HTML & CSS basics**.
 
----
 
 ## 🛠️ Tech Stack
 
