@@ -63,7 +63,7 @@ Through this project, you can learn:
 * Styling text, headings, and layouts
 * Building static web pages
 
----
+
 
 ## 🔮 Future Enhancements
 
